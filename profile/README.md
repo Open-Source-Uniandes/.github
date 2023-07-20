@@ -8,6 +8,8 @@ Creemos que las mejores soluciones se construyen en equipo y escuchando a la com
 
 ¿Quieres crear un impacto en tu comunidad? Entonces tenemos un lugar para ti 💪
 
+Accede a nuestro proyectos [aquí](https://open-source-uniandes.github.io/Open-Source-Uniandes/)
+
 
 <!--
 
